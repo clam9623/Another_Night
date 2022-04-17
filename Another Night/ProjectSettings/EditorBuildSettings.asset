@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Gun.unity
     guid: 3a59df176a2add246adf0f2b85438ae8
+  - enabled: 1
+    path: Assets/Scenes/Burglary.unity
+    guid: 491f4c113f324614e9d337a1076273b2
   m_configObjects: {}

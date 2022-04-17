@@ -5,10 +5,11 @@ using UnityEngine.SceneManagement;
 
 public class LevelProbTrigger : MonoBehaviour
 {
+    [SerializeField] private AnimationCurve animCurve;
     // Update is called once per frame
     public void LevelCall()
     {
-        float number = Random.value;
+        float number = animCurve.Evaluate(Random.value);
         Debug.Log(number);
         if (number > 0 & number < 0.03)
         {
