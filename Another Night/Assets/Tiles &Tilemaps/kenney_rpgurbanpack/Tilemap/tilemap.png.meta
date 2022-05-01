@@ -140,7 +140,7 @@ TextureImporter:
       name: tilemap_1
       rect:
         serializedVersion: 2
-        x: 16
+        x: 17
         y: 289
         width: 16
         height: 16
@@ -161,12 +161,12 @@ TextureImporter:
       name: tilemap_2
       rect:
         serializedVersion: 2
-        x: 35
+        x: 34
         y: 289
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.40673566, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
