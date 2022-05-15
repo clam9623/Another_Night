@@ -8,6 +8,7 @@ public class PlayerMovement : MonoBehaviour
     public LayerMask solidObjectsLayer;
     private bool isMoving;
     private Vector2 input;
+    public VectorValue startingPosition;
 
     private Animator animator;
 
@@ -16,6 +17,10 @@ public class PlayerMovement : MonoBehaviour
         animator = GetComponent<Animator>();
     }
 
+    void Start()
+    {
+        transform.position = startingPosition.initialValue;
+    }
     private void Update()
     {
         if (!isMoving)

@@ -391,7 +391,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -196.2}
+  m_AnchoredPosition: {x: 0, y: -160.7}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &256896385
@@ -2879,8 +2879,8 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'You just moved to a new city for a new job that offers an employee dorm.
     But after a long day at work, you realize that you''re the only one still in
-    the building and you forgot to ask where the employee dorm was! The only clue
-    you have is a picture of the work dorm.
+    the building and you forgot to ask where the employee dorm was! The only clues
+    you have are a picture of the work dorm and that you live in the left building.
 
 '
 --- !u!222 &1821978562
