@@ -12,21 +12,24 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Mugging.unity
-    guid: 5abd4b776f2eadc40b1b829dd6d24e3e
-  - enabled: 1
-    path: Assets/Scenes/Gun.unity
-    guid: 3a59df176a2add246adf0f2b85438ae8
-  - enabled: 1
-    path: Assets/Scenes/Burglary.unity
+    path: Assets/Scenes/Normal.unity
     guid: 491f4c113f324614e9d337a1076273b2
+  - enabled: 1
+    path: Assets/Scenes/Robbery.unity
+    guid: f2f2660a61601ae46966144388c6c39a
+  - enabled: 1
+    path: Assets/Scenes/Stalking.unity
+    guid: 0d06598a3986b3d4f9a5d9c292e76e67
   - enabled: 1
     path: Assets/Scenes/Konbini.unity
     guid: cf3f63b0deecf6b448ae8eee0a00b9d4
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Conbini.unity
+    guid: 095508a0255e2b943a5242692baa5215
   - enabled: 1
     path: Assets/Scenes/YouDied.unity
     guid: 48cb6a7972d2ba94ca08135490df7312
+  - enabled: 1
+    path: Assets/Scenes/AnotherNight.unity
+    guid: ce2646b97acea0745a83b1d7ec3ddba0
   m_configObjects: {}

@@ -13,15 +13,20 @@ public class LevelProbTrigger : MonoBehaviour
         Debug.Log(number);
         if (number > 0 & number < 0.03)
         {
-            SceneManager.LoadScene("Mugging");
+            SceneManager.LoadScene("Robbery");
         }
-        else if (number > 0.03 & number < 0.07)
+        else if (number > 0.03 & number < 0.233)
         {
-            SceneManager.LoadScene("Gun");
+            SceneManager.LoadScene("Stalking");
         }
-        else if (number > 0.07 & number < 0.27)
+        else 
         {
-            SceneManager.LoadScene("Burglary");
+            SceneManager.LoadScene("Normal");
         }
+    }
+
+    public void End()
+    {
+        Application.Quit();
     }
 }
