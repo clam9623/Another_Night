@@ -733,21 +733,24 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "It seems like you got killed by a stalker. It may seem like dying from
-    a stalking is an overkill but we can only prepare for the worst and dying is
-    a possible route that can happen if you aren't carefull. The only thing we can
+  m_Text: "It seems like you got killed by a robber. It may seem like dying from
+    a robbery is an overkill but we can only prepare for the worst and dying is a
+    possible route that can happen if you aren't carefull. The only thing we can
     do is drill this information into your mind so you know what to do in this situation.\n\n1.
-    If you notice someone following/stalking you, it's best not to lead them to your
-    house. Don't let your actions become patterns, so take different route when traveling. 
-    \n\n2.The best way to go into an opened store or a open building with people
-    and ask someone like a store clerk to call the police. Being in an area with
-    people gives you a higher chance of being remembered in a vicinity if something
-    did happen to you. \n\n3. Even if you go into a store and come back out after
-    seeing that the coast is clear, doesn't mean the stalker is gone. They could
-    simply be waiting somewhere else where you can't see but they can see you.\n\n4.
-    The best option is to run away when confronted so don't think self-defense training
-    will help. Without recieving training , very few people are able to do these
-    in the heat of the moment. \n"
+    Remain calm and do not resist.\r Assure the robber you will cooperate and take
+    no action that may jeopardize your safety. Don\u2019t make any quick or unexpected
+    movements.\n\n2.Follow the robber\u2019s directions, but do not offer more than
+    what they ask for.\r Don\u2019t argue. If you have to move or reach into your
+    pockets to give the robber what they want, tell them what you are going to do
+    and why.\n\n3. Make mental notes of the robber\u2019s appearance. Notice what
+    the robber does so you can include it in your police report.\n\n4. After the
+    robbery, go immediately to a safe location, then report the crime.\r Your personal
+    safety is your top priority. Make sure you feel secure before you call 911 or
+    DPS. If you\u2019re in an isolated area, move to an area with people and ask
+    someone to stay with you while you wait for help. If you opt to remain at the
+    crime scene, try not to touch anything. If there were any witnesses, ask them
+    to remain with you until the officers arrive. If they must leave, write down
+    their name, address and telephone number.\n"
 --- !u!222 &1102303380
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1680,6 +1683,10 @@ MonoBehaviour:
 
 
 
+
+
+
+
     Click anywhere to continue'
 --- !u!222 &1700992953
 CanvasRenderer:
@@ -2065,18 +2072,18 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Approximately 15% of women and 6% of men in the United States have ever
-    experienced stalking. \n\nYoung people are at an increased risk for stalking\r.
-    More than 50% of female stalking survivors and more than 30% of male stalking
-    survivors were first stalked before they were 25 years old. \n\nResearch shows
-    stalking can lead to depression and post-traumatic stress disorder. About 68%
-    of female and 70% of male victims experienced threats of physical harm during
-    their lifetime.\n\nAlmost 3 out of 4 stalking victims know their stalkers in
-    some capacity. The most common relationship between the victim and perpetrator
-    is a current of former intimate partner.\n\nAlthough stalking is a crime in all
-    50 states, less than one-third of states classify stalking as a felony if it\u2019s
-    a first offense. This leaves stalking victims without protections afforded to
-    victims of other violence crimes.\n"
+  m_Text: "People greatly overestimate their likelihood of being robbed.\n\nIn the
+    UK, studies from ONS showed that 0.3% of adults were victims of robbery in the
+    year ending March 2016, but 9% of those surveyed were very worried they would
+    experience it in the forthcoming year \u2013 30 times higher than the rate of
+    victimisation.\n\nA study survey done in the US, revealed how citizens are much
+    worse at estimating their own risk of crime than guessing the danger of other
+    bad things. Between 1994 and 2004 the survey showed people estimated their chances
+    of being robbed at 15%. The rate was actually 1.2%. Respondents did much better
+    in other categories, for example, guessing their risk of losing their job was
+    14.5%, when it was actually 12.9%, much closer to reality.\n\nPeople of color
+    are among the demographic groups that do actually have a higher chance of becoming
+    crime victims"
 --- !u!222 &1944917380
 CanvasRenderer:
   m_ObjectHideFlags: 0
